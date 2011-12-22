@@ -1,0 +1,21 @@
+Additional contact plugins for "author-box-reloaded-pack" Wordpress plugin [1].
+Now you can define links to Flickr, Github and Skype to your author box.
+
+PREREQUISITES:
+--------------
+"author-box-2" (aka "author-box-reloaded") [2] and "author-box-reloaded-pack"
+are required to be installed.
+
+HOWTO:
+------
+Copy all files to "<wordpress>/plugins/author-box-reloaded-pack". Login to your
+Wordpress installation and activate one ore more plugins of your choice. Open
+your personal user profile and insert the user id for your social networks.
+
+Also see [3] for detailed installation instruction.
+
+LINKS:
+------
+[1] http://wordpress.org/extend/plugins/author-box-reloaded-pack
+[2] http://wordpress.org/extend/plugins/author-box-2
+[3] http://wordpress.org/extend/plugins/author-box-reloaded-pack/installation/
